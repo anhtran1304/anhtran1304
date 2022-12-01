@@ -1,4 +1,4 @@
-[![MasterHead] (https://fullstack.edu.vn/static/media/cover-profile.3fb9fed576da4b28386a.png)]
+<img align="center" src="https://fullstack.edu.vn/static/media/cover-profile.3fb9fed576da4b28386a.png">
 <h1 align="center">Hi 👋, I'm The Anh Tran</h1>
 <h3 align="center">A frontend developer from Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
