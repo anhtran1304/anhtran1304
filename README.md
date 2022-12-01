@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **theanhtran2000@gmail.com**
 
-- 📄 Know about my experiences [https://www.topcv.vn/xem-cv/UQJaDAZXVF5VUQcCAQRUAltRDgYAUVMABlEBXA64b3](https://www.topcv.vn/xem-cv/UQJaDAZXVF5VUQcCAQRUAltRDgYAUVMABlEBXA64b3)
+- 📄 Know about my experiences [https://bit.ly/3VpiPgH](https://bit.ly/3VpiPgH)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
