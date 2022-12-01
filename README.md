@@ -6,7 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [TikTok Clone](https://github.com/anhtran1304/tiktok-ui)
 
 - 🌱 I’m currently learning **ReactJS, Redux,...**
 
