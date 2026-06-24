@@ -19,13 +19,13 @@
 
 
 <p align="center">
-  <a href="mailto:theanhtran2000@gmail.com">
+  <a href="mailto:theanhtran2000@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-theanhtran2000%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/anhtran1304">
+  <a href="https://linkedin.com/in/anhtran1304" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-anhtran1304-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://docs.google.com/document/d/12g9PzINjPYYs1tnzJ0bJxqgSy_BF1vvEpHttXcoJY_o/edit?usp=sharing">
+  <a href="https://docs.google.com/document/d/12g9PzINjPYYs1tnzJ0bJxqgSy_BF1vvEpHttXcoJY_o/edit?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/CV-View%20Resume-111827?style=flat-square&logo=readme&logoColor=white" alt="CV" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=anhtran1304&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
