@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img src="https://fullstack.edu.vn/static/media/cover-profile.3fb9fed576da4b28386a.png" alt="Profile Cover" width="100%" />
+  <img src="https://img.magnific.com/free-photo/glasses-lie-laptop-reflecting-light-from-screen-dark_169016-52267.jpg?semt=ais_hybrid&w=740&q=80" alt="Profile Cover" width="100%" />
 
 </p>
 
@@ -19,29 +19,17 @@
 
 
 <p align="center">
-
   <a href="mailto:theanhtran2000@gmail.com">
-
-    <img src="https://img.shields.io/badge/Email-theanhtran2000%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
-
+    <img src="https://img.shields.io/badge/Email-theanhtran2000%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-
-  <a href="https://linkedin.com/in/anhtran1304" target="_blank">
-
-    <img src="https://img.shields.io/badge/LinkedIn-anhtran1304-blue?style=flat-square&logo=linkedin&logoColor=white" />
-
+  <a href="https://linkedin.com/in/anhtran1304">
+    <img src="https://img.shields.io/badge/LinkedIn-anhtran1304-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  <a href="https://bit.ly/3VpiPgH" target="_blank">
-
-    <img src="https://img.shields.io/badge/CV-View%20Resume-111827?style=flat-square&logo=readme&logoColor=white" />
-
+  <a href="https://docs.google.com/document/d/12g9PzINjPYYs1tnzJ0bJxqgSy_BF1vvEpHttXcoJY_o/edit?usp=sharing">
+    <img src="https://img.shields.io/badge/CV-View%20Resume-111827?style=flat-square&logo=readme&logoColor=white" alt="CV" />
   </a>
-
   <img src="https://komarev.com/ghpvc/?username=anhtran1304&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
-
 </p>
-
 
 
 ---
