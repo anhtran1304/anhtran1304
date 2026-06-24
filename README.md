@@ -1,94 +1,235 @@
-<img align="center" src="https://fullstack.edu.vn/static/media/cover-profile.3fb9fed576da4b28386a.png">
-<h1 align="center">Hi 👋, I'm The Anh Tran</h1>
-<h3 align="center">Frontend Software Engineer from Vietnam</h3>
+<p align="center">
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anhtran1304&label=Profile%20views&color=0e75b6&style=flat" alt="anhtran1304" /> </p>
+  <img src="https://fullstack.edu.vn/static/media/cover-profile.3fb9fed576da4b28386a.png" alt="Profile Cover" width="100%" />
 
-- 💻 **Current Role:** Frontend Software Engineer at **VNG Corporation**, developing enterprise HRM platforms using **Angular 18, Micro Frontend (Webpack Module Federation), and Monorepo architecture**.
-- 🚀 **Past Experience:** Ex-Boscher with 3+ years of experience specializing in building scalable web applications, real-time features (WebSockets), and cross-border project collaborations.
-- 🌱 **I’m currently focusing on:** Advancing my full-stack capabilities with backend technologies and deeply mastering cutting-edge frontend tooling.
-- 📫 **How to reach me:** **theanhtran2000@gmail.com**
-- 📄 **My professional journey:** [Check out my CV](<img align="center" src="https://fullstack.edu.vn/static/media/cover-profile.3fb9fed576da4b28386a.png">
-<h1 align="center">Hi 👋, I'm The Anh Tran</h1>
-<h3 align="center">Frontend Software Engineer from Vietnam</h3>
-
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anhtran1304&label=Profile%20views&color=0e75b6&style=flat" alt="anhtran1304" /> </p>
-
-- 💻 **Current Role:** Frontend Software Engineer at **VNG Corporation**, developing enterprise HRM platforms using **Angular 18, Micro Frontend (Webpack Module Federation), and Monorepo architecture**.
-- 🚀 **Past Experience:** Ex-Boscher with 3+ years of experience specializing in building scalable web applications, real-time features (WebSockets), and cross-border project collaborations.
-- 🌱 **I’m currently focusing on:** Advancing my full-stack capabilities with backend technologies and deeply mastering cutting-edge frontend tooling.
-- 📫 **How to reach me:** **theanhtran2000@gmail.com**
-- 📄 **My professional journey:** [Check out my CV](https://docs.google.com/document/d/12g9PzINjPYYs1tnzJ0bJxqgSy_BF1vvEpHttXcoJY_o/edit?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anhtran1304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anhtran1304" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <!-- Angular -->
-  <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-  <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <!-- HTML5 -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <!-- CSS3 -->
-  <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <!-- Sass -->
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-  <!-- Tailwind CSS -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <!-- ReactJS -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <!-- Figma -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+
+
+<h1 align="center">Hi, I'm The Anh Tran 👋</h1>
+
+
+
+<p align="center">
+
+  <strong>Frontend Software Engineer</strong> from Vietnam, focused on building scalable enterprise web applications with Angular, TypeScript, Micro Frontends, and modern frontend architecture.
+
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anhtran1304&show_icons=true&locale=en&layout=compact" alt="anhtran1304" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anhtran1304&show_icons=true&locale=en" alt="anhtran1304" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anhtran1304&" alt="anhtran1304" /></p>
-)
+<p align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anhtran1304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anhtran1304" height="30" width="40" /></a>
+  <a href="mailto:theanhtran2000@gmail.com">
+
+    <img src="https://img.shields.io/badge/Email-theanhtran2000%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
+
+  </a>
+
+  <a href="https://linkedin.com/in/anhtran1304" target="_blank">
+
+    <img src="https://img.shields.io/badge/LinkedIn-anhtran1304-blue?style=flat-square&logo=linkedin&logoColor=white" />
+
+  </a>
+
+  <a href="https://bit.ly/3VpiPgH" target="_blank">
+
+    <img src="https://img.shields.io/badge/CV-View%20Resume-111827?style=flat-square&logo=readme&logoColor=white" />
+
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=anhtran1304&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <!-- Angular -->
-  <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-  <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <!-- HTML5 -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <!-- CSS3 -->
-  <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <!-- Sass -->
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-  <!-- Tailwind CSS -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <!-- ReactJS -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <!-- Figma -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+
+
+---
+
+
+
+## 👨‍💻 About Me
+
+
+
+I'm a Frontend Software Engineer with experience building enterprise-scale applications across HRM platforms, tooling lifecycle systems, and internal digital products.
+
+
+
+Currently, I work at **VNG Corporation**, where I develop enterprise HRM platforms using **Angular 18**, **Micro Frontend architecture**, **Webpack Module Federation**, and **Monorepo-based development**.
+
+
+
+Previously, I worked at **Bosch Global Software Technologies Vietnam**, building scalable web applications, real-time collaboration features, and cross-border enterprise systems.
+
+
+
+---
+
+
+
+## 🚀 What I Focus On
+
+
+
+- Building scalable frontend architecture with **Angular**, **TypeScript**, and **RxJS**
+
+- Designing reusable UI systems, shared components, and low-code form engines
+
+- Working with **Micro Frontends**, **Module Federation**, and monorepo architecture
+
+- Improving frontend performance, maintainability, and developer experience
+
+- Expanding my full-stack knowledge with backend and cloud technologies
+
+
+
+---
+
+
+
+## 🛠️ Tech Stack
+
+
+
+### Frontend
+
+
+
+<p>
+
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anhtran1304&show_icons=true&locale=en&layout=compact" alt="anhtran1304" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anhtran1304&show_icons=true&locale=en" alt="anhtran1304" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anhtran1304&" alt="anhtran1304" /></p>
+### UI & Styling
+
+
+
+<p>
+
+  <img src="https://img.shields.io/badge/Angular%20Material-1976D2?style=flat-square&logo=angular&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+
+</p>
+
+
+
+### Testing & Tooling
+
+
+
+<p>
+
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+
+</p>
+
+
+
+### Architecture & Environment
+
+
+
+<p>
+
+  <img src="https://img.shields.io/badge/Micro%20Frontend-111827?style=flat-square" />
+
+  <img src="https://img.shields.io/badge/Module%20Federation-111827?style=flat-square" />
+
+  <img src="https://img.shields.io/badge/Monorepo-111827?style=flat-square" />
+
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+
+</p>
+
+
+
+---
+
+
+
+## 🧩 Experience Highlights
+
+
+
+- Developed enterprise HRM modules using **Angular 18** and **Webpack Module Federation**
+
+- Built reusable shared components and dynamic low-code form systems
+
+- Implemented real-time collaboration features using **WebSockets**
+
+- Improved frontend quality through **Playwright**, **Cypress**, and **Jest**
+
+- Collaborated with global teams, product owners, business analysts, and UI/UX designers
+
+
+
+---
+
+
+
+## 📊 GitHub Stats
+
+
+
+<p align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anhtran1304&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhtran1304&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+
+
+<p align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anhtran1304&theme=tokyonight&hide_border=true" />
+
+</p>
+
+
+
+---
+
+
+
+## 📫 Contact
+
+
+
+- Email: **theanhtran2000@gmail.com**
+
+- LinkedIn: [linkedin.com/in/anhtran1304](https://linkedin.com/in/anhtran1304)
+
+- CV: [View Resume](https://docs.google.com/document/d/12g9PzINjPYYs1tnzJ0bJxqgSy_BF1vvEpHttXcoJY_o/edit?usp=sharing)
